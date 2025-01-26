@@ -1,0 +1,11 @@
+Fase de comunnicacion:
+	se puede hacer o Casos de uso o Diagrama de flujo de datos
+
+Modelado:
+	En esta fase ser realiza.
+	El diseño de datos -- Diseño de base de datos
+	diseño de componentes -- Representacion del algoritmo del programa
+	Diseño de interfaces -- Diseñar la interfaz del proyecto
+	Diseño arquitectonico --  
+
+https://www.fdi.ucm.es/profesor/gmendez/docs/is0809/ieee830.pd
